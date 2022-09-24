@@ -25,5 +25,5 @@ Setting up your own website on GitHub:
      * You might see a dialog that says something like below. Check the checkbox and press "Open Link". <img width="387" alt="image" src="https://user-images.githubusercontent.com/4723983/192112851-e7ecf180-c7a0-411e-aef0-d6203ce8a07a.png">
 
   4. Move your files into the same repository! 
-  5. Type in a message to describe your change, and press "Commit to main". Then, press "Publish branch". The workflow should look similar to this GIF: ![image](https://user-images.githubusercontent.com/4723983/192112923-35bcec44-ce35-40ea-9c9b-e51240030740.png)
+  5. Type in a message to describe your change, and press "Commit to main". Then, press "Publish branch". The workflow should look similar to this GIF: ![image](https://pages.github.com/images/desktop-demo@2x.gif)
   6. Open up your browser again and visit `https://*username*.github.io` (but with your actual username!)
