@@ -1,0 +1,32 @@
+div * {
+	border: 1px solid red;	
+}
+
+.inline {
+	margin: 50px;
+	padding: 10px;
+	width: 100px;
+	color: red;
+	display: block;	
+}
+
+.blue {
+	color: blue;
+}
+
+.center {
+	text-align: center;
+}
+
+#apple {
+	color: red;
+}
+
+.fruit {
+	color: pink;
+}
+
+.fruit {
+	color: limegreen;
+}
+
